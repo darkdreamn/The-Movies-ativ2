@@ -1,0 +1,39 @@
+.header {
+	background: #202020;
+	padding: 30px 20px 40px;
+	text-align: center;
+	margin-top: 6px;
+}
+
+.header h1 {
+	color: aliceblue;
+	font-size: 28px;
+}
+
+.header h1 {
+	margin: 0;
+}
+
+#btnHome {
+	background-color: #68ffff;
+	color: black;
+	font-weight: 600;
+	padding: 6px 30px;
+	border-radius: 5px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+#btnHome:hover {
+	background-color: #005fb2;
+	color: aliceblue;
+}
+
+.footer {
+	background: #202020;
+	text-align: center;
+	color: aliceblue;
+	font-size: 16px;
+	padding: 20px;
+	height: 100%;
+}
